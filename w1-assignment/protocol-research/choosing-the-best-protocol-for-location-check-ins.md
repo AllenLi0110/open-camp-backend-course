@@ -8,11 +8,40 @@ This document analyzes the AT Protocol as a potential foundation for a new produ
 
 ### AT Protocol
 
-The AT Protocol (Authenticated Transfer Protocol) is an open standard for decentralized social networking, developed by Bluesky Social PBC. It aims to fix problems in centralized social media and other decentralized protocols by focusing on data portability, user experience, algorithm choice, and scalability. The AT Protocol uses a modular design, separating user identity, data storage, and application logic.
+The AT Protocol (Authenticated Transfer Protocol) is an open standard for decentralized social networking, developed by Bluesky Social PBC. It fix problems in centralized social media and other decentralized protocols by focusing on data portability, user experience, algorithm choice, and scalability. The AT Protocol uses a modular design, separating user identity, data storage, and application logic.
 
 ### ActivityPub
 
 ActivityPub is an open, decentralized social networking protocol. It provides a standard for creating, updating, and deleting data using a client-server structure, as well as a server-to-server API for federated communication. ActivityPub uses ActivityStreams 2.0, a JSON-based data format, to represent social interactions like posts and likes. Key parts include Actors (users or groups) and Objects (content or actions). When an Actor performs an action on an Object, it creates an Activity (e.g., "Create," "Follow," or "Like"). Instances (servers) help users communicate by sending/receiving messages between servers.
+
+## AT Protocol vs ActivityPub: Key Differences
+
+### 1. Architecture Design:
+
+AT Protocol: Uses a modular design that separates user identity, data storage, and application logic, emphasizing data portability and algorithm choice
+ActivityPub: Employs a client-server structure focused on federated communication and activity streams
+
+### 2. Identity Systems:
+
+AT Protocol: Implements a decentralized identity system allowing users to carry their data across different services
+ActivityPub: Identities are typically bound to specific instances (servers)
+
+### 3. Data Models:
+
+AT Protocol: Custom data model tailored for social networking needs
+ActivityPub: Uses ActivityStreams 2.0 (JSON format) to represent social interactions
+
+### 4. Scalability:
+
+AT Protocol: Designed with scalability and user experience as core goals
+ActivityPub: May face scaling challenges in large-scale deployments
+
+### 5.Implementation Examples:
+
+AT Protocol: Developed and used by Bluesky
+ActivityPub: Adopted by multiple platforms including Mastodon and Pleroma
+
+Both are decentralized social networking protocols, but AT Protocol focuses more on user control and portability, while ActivityPub emphasizes standardized federated communication.
 
 ## User Story
 
