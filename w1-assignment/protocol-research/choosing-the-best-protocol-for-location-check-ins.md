@@ -4,6 +4,12 @@
 
 This document analyzes the AT Protocol as a potential foundation for a new product: a location check-in application, similar to Foursquare/Swarm, featuring GPS coordinates, photos, and a global news feed. This analysis compares the AT Protocol with ActivityPub, examining the strengths, weaknesses, opportunities, and SWOT of each for the project's needs. It ends with a recommendation to use the AT Protocol, along with potential risks and suggestions.
 
+User needs and expectations for the location check-in application:
+
+1. Users can create a location check-in post with optional GPS coordinates.
+2. When posting, users can optionally attach a photo.
+3. A global newsfeed displays all user posts (check-ins).
+
 ## Overview of AT Protocol & ActivityPub
 
 ### AT Protocol
@@ -42,14 +48,6 @@ AT Protocol: Developed and used by Bluesky
 ActivityPub: Adopted by multiple platforms including Mastodon and Pleroma
 
 Both are decentralized social networking protocols, but AT Protocol focuses more on user control and portability, while ActivityPub emphasizes standardized federated communication.
-
-## User Story
-
-User needs and expectations for the location check-in application:
-
-1. Users can create a location check-in post with optional GPS coordinates.
-2. When posting, users can optionally attach a photo.
-3. A global newsfeed displays all user posts (check-ins).
 
 ## SWOT Analysis
 
