@@ -24,28 +24,33 @@ ActivityPub is an open, decentralized social networking protocol. It provides a 
 
 ### 1. Architecture Design:
 
-AT Protocol: Uses a modular design that separates user identity, data storage, and application logic, emphasizing data portability and algorithm choice
-ActivityPub: Employs a client-server structure focused on federated communication and activity streams
+AT Protocol: Uses a modular design that separates user identity, data storage, and application logic, emphasizing data portability and algorithm choice.
+
+ActivityPub: Employs a client-server structure focused on federated communication and activity streams.
 
 ### 2. Identity Systems:
 
-AT Protocol: Implements a decentralized identity system allowing users to carry their data across different services
-ActivityPub: Identities are typically bound to specific instances (servers)
+AT Protocol: Implements a decentralized identity system allowing users to carry their data across different services.
+
+ActivityPub: Identities are typically bound to specific instances (servers).
 
 ### 3. Data Models:
 
-AT Protocol: Custom data model tailored for social networking needs
-ActivityPub: Uses ActivityStreams 2.0 (JSON format) to represent social interactions
+AT Protocol: Custom data model tailored for social networking needs.
+
+ActivityPub: Uses ActivityStreams 2.0 (JSON format) to represent social interactions.
 
 ### 4. Scalability:
 
-AT Protocol: Designed with scalability and user experience as core goals
-ActivityPub: May face scaling challenges in large-scale deployments
+AT Protocol: Designed with scalability and user experience as core goals.
+
+ActivityPub: May face scaling challenges in large-scale deployments.
 
 ### 5.Implementation Examples:
 
-AT Protocol: Developed and used by Bluesky
-ActivityPub: Adopted by multiple platforms including Mastodon and Pleroma
+AT Protocol: Developed and used by Bluesky.
+
+ActivityPub: Adopted by multiple platforms including Mastodon.
 
 Both are decentralized social networking protocols, but AT Protocol focuses more on user control and portability, while ActivityPub emphasizes standardized federated communication.
 
