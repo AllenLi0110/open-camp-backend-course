@@ -93,3 +93,4 @@ The AT Protocol offers a promising foundation for building decentralized social 
 - **AT Protocol GitHub**: [GitHub Repository](https://github.com/bluesky-social/atproto)
 - **ActivityPub (2018)**: [W3C Recommendation](https://www.w3.org/TR/activitypub/)
 - **ActivityPub GitHub**: [GitHub Repository](https://github.com/w3c/activitypub)
+- **ACtivityPub Community**: [Community](https://socialhub.activitypub.rocks)
