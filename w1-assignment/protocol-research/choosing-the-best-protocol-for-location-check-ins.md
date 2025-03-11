@@ -96,6 +96,7 @@ The AT Protocol provides a portable identity and data system, ideal for decentra
 - **ActivityPub vs. AT Protocol: Competing Standards or Corporate Sabotage**: [Blog Post](https://pentirin.neocities.org/blog/competingstandardsorcorporatesabatoge?ref=guptadeepak.com)
 - **ATProtocol**: [ATProtocol documentation](https://atproto.com)
 - **AT Protocol GitHub**: [GitHub Repository](https://github.com/bluesky-social/atproto)
+- **BlueSky**: [Documentation](https://docs.bsky.app/docs/advanced-guides/atproto)
 - **ActivityPub (2018)**: [W3C Recommendation](https://www.w3.org/TR/activitypub/)
 - **ActivityPub GitHub**: [GitHub Repository](https://github.com/w3c/activitypub)
 - **ACtivityPub Community**: [Community](https://socialhub.activitypub.rocks)
