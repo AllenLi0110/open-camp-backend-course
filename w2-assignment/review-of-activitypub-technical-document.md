@@ -13,7 +13,7 @@
 ### The Positive Aspects of ActivityPub:
 
 1. Larger existing developer community support(eg. https://socialhub.activitypub.rocks)
-2. More production-proven implementations(eg. https://github.com/landrok/activitypub)
+2. ActivityPub has been successfully implemented in various real-world applications, with projects like Mastodon and Pleroma already scaling to handle large user bases.
 
 ### The Negative Aspects of ActivityPub:
 
